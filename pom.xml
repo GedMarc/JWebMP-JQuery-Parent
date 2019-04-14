@@ -10,7 +10,7 @@
     <artifactId>jwebmp-plugins-jquery-parent</artifactId>
     <packaging>pom</packaging>
 
-    <name>Bootstrap Modules</name>
+    <name>JQuery Modules</name>
     <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
 
     <profiles>
@@ -18,6 +18,18 @@
             <id>devkit</id>
             <modules>
                 <module>JQueryUI</module>
+                <module>BlockUI</module>
+                <module>FullCalendar</module>
+                <module>JQUIDateTimePicker</module>
+                <module>JQUIThemes</module>
+                <module>JQUIThemesNestable</module>
+                <module>JSTree</module>
+                <module>Layout</module>
+                <module>LinearGradients</module>
+                <module>MetroTiles</module>
+                <module>VerticalTimeline</module>
+                <module>SpectrumColourPicker</module>
+                <module>Toastr</module>
             </modules>
         </profile>
     </profiles>

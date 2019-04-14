@@ -1,3 +1,39 @@
 [submodule "JQueryUI"]
 	path = JQueryUI
 	url = https://github.com/GedMarc/JWebMP-JQueryUIPlugin.git
+[submodule "BlockUI"]
+	path = BlockUI
+	url = https://github.com/GedMarc/JWebMP-BlockUI.git
+[submodule "FullCalendar"]
+	path = FullCalendar
+	url = https://github.com/GedMarc/JWebMP-FullCalendarPlugin.git
+[submodule "LinearGradients"]
+	path = LinearGradients
+	url = https://github.com/GedMarc/JWebMP-JQGradientLinearPlugin.git
+[submodule "Layout"]
+	path = Layout
+	url = https://github.com/GedMarc/JWebMP-JQLayoutPlugin.git
+[submodule "JQUIDateTimePicker"]
+	path = JQUIDateTimePicker
+	url = https://github.com/GedMarc/JQueryUIDateTimePicker.git
+[submodule "JQUIThemes"]
+	path = JQUIThemes
+	url = https://github.com/GedMarc/JWebMP-JQueryUIThemesPlugin.git
+[submodule "JQUIThemesNestable"]
+	path = JQUIThemesNestable
+	url = https://github.com/GedMarc/JWebMP-JQueryUIThemesNestablePlugin.git
+[submodule "MetroTiles"]
+	path = MetroTiles
+	url = https://github.com/GedMarc/JWebMP-JQMetroPlugin.git
+[submodule "VerticalTimeline"]
+	path = VerticalTimeline
+	url = https://github.com/GedMarc/JWebMP-JQueryVerticalTimeline.git
+[submodule "JSTree"]
+	path = JSTree
+	url = https://github.com/GedMarc/JWebMP-JSTreePlugin.git
+[submodule "SpectrumColourPicker"]
+	path = SpectrumColourPicker
+	url = https://github.com/GedMarc/JWebMP-SpectrumPlugin.git
+[submodule "Toastr"]
+	path = Toastr
+	url = https://github.com/GedMarc/JWebMP-Toastr.git
