@@ -30,6 +30,8 @@
                 <module>VerticalTimeline</module>
                 <module>SpectrumColourPicker</module>
                 <module>Toastr</module>
+				
+				<module>MalihuScrollBar</module>
             </modules>
         </profile>
     </profiles>

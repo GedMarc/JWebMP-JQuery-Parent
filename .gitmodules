@@ -50,3 +50,6 @@
 	path = Toastr
 	url = https://github.com/GedMarc/JWebMP-Toastr.git
 	ignore=dirty
+[submodule "MalihuScrollBar"]
+	path = MalihuScrollBar
+	url = https://github.com/GedMarc/JWebMP-MalihuCustomScrollBar.git
