@@ -13,27 +13,21 @@
     <name>JQuery Modules</name>
     <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
 
-    <profiles>
-        <profile>
-            <id>devkit</id>
-            <modules>
-                <module>JQueryUI</module>
-                <module>BlockUI</module>
-                <module>FullCalendar</module>
-                <module>JQUIDateTimePicker</module>
-                <module>JQUIThemes</module>
-                <module>JQUIThemesNestable</module>
-                <module>JSTree</module>
-                <module>Layout</module>
-                <module>LinearGradients</module>
-                <module>MetroTiles</module>
-                <module>VerticalTimeline</module>
-                <module>SpectrumColourPicker</module>
-                <module>Toastr</module>
-				
-				<module>MalihuScrollBar</module>
-            </modules>
-        </profile>
-    </profiles>
+    <modules>
+        <module>JQueryUI</module>
+        <module>BlockUI</module>
+        <module>FullCalendar</module>
+        <module>JQUIDateTimePicker</module>
+        <module>JQUIThemes</module>
+        <module>JQUIThemesNestable</module>
+        <module>JSTree</module>
+        <module>Layout</module>
+        <module>LinearGradients</module>
+        <module>MetroTiles</module>
+        <module>VerticalTimeline</module>
+        <module>SpectrumColourPicker</module>
+        <module>Toastr</module>
 
+        <module>MalihuScrollBar</module>
+    </modules>
 </project>
