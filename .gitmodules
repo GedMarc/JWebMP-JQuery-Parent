@@ -53,3 +53,9 @@
 [submodule "MalihuScrollBar"]
 	path = MalihuScrollBar
 	url = https://github.com/GedMarc/JWebMP-MalihuCustomScrollBar.git
+[submodule "WayPoints"]
+	path = WayPoints
+	url = https://github.com/GedMarc/JWebMP-WayPoints.git
+[submodule "CounterUp"]
+	path = CounterUp
+	url = https://github.com/GedMarc/JWebMP-CounterUp.git

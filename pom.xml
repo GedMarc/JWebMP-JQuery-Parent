@@ -27,6 +27,10 @@
         <module>VerticalTimeline</module>
         <module>SpectrumColourPicker</module>
         <module>Toastr</module>
+		
+		<module>SimpleBar</module>
+		<module>WayPoints</module>
+		<module>CounterUp</module>
 
         <module>MalihuScrollBar</module>
     </modules>
