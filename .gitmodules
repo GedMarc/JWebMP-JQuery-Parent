@@ -62,3 +62,6 @@
 [submodule "SimpleBar"]
 	path = SimpleBar
 	url = https://github.com/GedMarc/JWebMP-SimpleBar
+[submodule "JQuery"]
+	path = JQuery
+	url = https://github.com/GedMarc/JWebMP-JQuery.git

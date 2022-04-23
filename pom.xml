@@ -19,9 +19,13 @@
             <id>enable-plugins</id>
 
             <modules>
-                <module>JQueryUI</module>
+			<module>JQuery</module>
+			
+			<module>FullCalendar</module>
+			
+               <!-- <module>JQueryUI</module>
                 <module>BlockUI</module>
-                <module>FullCalendar</module>
+                
                 <module>JQUIDateTimePicker</module>
                 <module>JQUIThemes</module>
                 <module>JQUIThemesNestable</module>
@@ -37,7 +41,7 @@
                 <module>WayPoints</module>
                 <module>CounterUp</module>
 
-                <module>MalihuScrollBar</module>
+                <module>MalihuScrollBar</module>-->
             </modules>
 
         </profile>
