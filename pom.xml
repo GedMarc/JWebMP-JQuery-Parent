@@ -22,6 +22,7 @@
 			<module>JQuery</module>
 			
 			<module>FullCalendar</module>
+			<module>FullCalendarPro</module>
 			
                <!-- <module>JQueryUI</module>
                 <module>BlockUI</module>

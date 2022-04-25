@@ -65,3 +65,6 @@
 [submodule "JQuery"]
 	path = JQuery
 	url = https://github.com/GedMarc/JWebMP-JQuery.git
+[submodule "FullCalendarPro"]
+	path = FullCalendarPro
+	url = https://github.com/GedMarc/JWebMP-FullCalendarPro
